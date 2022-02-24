@@ -17,11 +17,11 @@
 </div>
 
 - [📌 Core Features](#-core-features)
-<!--
+
+- [📘 Documentation](#-documentation)
 
 - [💾 How to Install](#-how-to-install)
 
--->
 - [📆 Roadmap](#-roadmap) 
 
 - [🚀 Contribution](#-contribution)
@@ -50,13 +50,15 @@ Woke symbolic execution engine observes function behavior by forwarding symbolic
 Integrated detectors can report complicated re-entrancy and access
 control bugs - the source of many security breaches nowadays.
 
-<!--
+# 📘 Documentation
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Sed convallis magna eu sem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Quisque porta. Curabitur sagittis hendrerit ante. Ut tempus purus at lorem. Etiam neque. Pellentesque ipsum. Donec quis nibh at felis congue commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Aliquam in lorem sit amet leo accumsan lacinia. Integer pellentesque quam vel velit. Maecenas aliquet accumsan leo.
+
 
 # 💾 How to Install
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Sed convallis magna eu sem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Quisque porta. Curabitur sagittis hendrerit ante. Ut tempus purus at lorem. Etiam neque. Pellentesque ipsum. Donec quis nibh at felis congue commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Aliquam in lorem sit amet leo accumsan lacinia. Integer pellentesque quam vel velit. Maecenas aliquet accumsan leo.
 
--->
 # 📆 Roadmap  
 
 - **Q2/22**
