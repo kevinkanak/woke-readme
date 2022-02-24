@@ -1,6 +1,6 @@
 <div align="center">
  
-## **WOKE** 
+# **Woke** 
  **Static analyzer and symbolic execution engine for Solidity written in Python** 🐍
  
  #
@@ -27,39 +27,38 @@
 - [🚀 Contribution](#-contribution)
 
 
+## 📌 Core Features
 
-# 📌 Core Features
-
-- ### WOKE console
+- ### Woke console
 
 Woke console provides an interface for interaction with compiled smart contracts so auditors can write tests tailored to the audited code 
 and effortlessly integrate custom vulnerability detectors.
 
-- ### WOKE IDE extensions
+- ### Woke IDE extensions
 
 Woke extensions for IDEs add advanced support for Solidity by implementing Language Server Protocol. Developers can use their favorite IDE to effectively write Solidity code with features like auto-completion or “Go to the definition”.
 
 
-- ### WOKE symbolic execution
+- ### Woke symbolic execution
     
 Woke symbolic execution engine observes function behavior by forwarding symbolic parameters. Combined with static analysis, more detailed results and suggestions can be reported to developers.
     
 
-- ### WOKE detectors
+- ### Woke detectors
 
 Integrated detectors can report complicated re-entrancy and access
 control bugs - the source of many security breaches nowadays.
 
-# 📘 Documentation
+## 📘 Documentation
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Sed convallis magna eu sem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Quisque porta. Curabitur sagittis hendrerit ante. Ut tempus purus at lorem. Etiam neque. Pellentesque ipsum. Donec quis nibh at felis congue commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Aliquam in lorem sit amet leo accumsan lacinia. Integer pellentesque quam vel velit. Maecenas aliquet accumsan leo.
 
 
-# 💾 How to Install
+## 💾 How to Install
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Sed convallis magna eu sem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Quisque porta. Curabitur sagittis hendrerit ante. Ut tempus purus at lorem. Etiam neque. Pellentesque ipsum. Donec quis nibh at felis congue commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Aliquam in lorem sit amet leo accumsan lacinia. Integer pellentesque quam vel velit. Maecenas aliquet accumsan leo.
 
-# 📆 Roadmap  
+## 📆 Roadmap  
 
 - **Q2/22**
 
@@ -76,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Nullam
 
 
 
-# 🚀 Contribution
+## 🚀 Contribution
 
 Thank you for your interest in contributing to Trdelnik! All contributions are welcome no
 matter how big or small. This includes (but is not limited to) filing issues,
@@ -89,6 +88,6 @@ is working on what issue as to not overlap work.
 If you're considering larger changes or self motivated features, please file an issue
 and engage with the maintainers in [Discord](https://discord.com/invite/h3zeeCbHYT).
 
-# License
+## License
 This project is licensed under the [ISC License](https://github.com/Ackee-Blockchain/woke/blob/main/LICENSE).
                                                
