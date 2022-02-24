@@ -1,8 +1,10 @@
 <div align="center">
  
-## **WOKE** is a static analyzer and symbolic execution engine for Solidity written in Python 🐍
+## **WOKE** 
  
-  <img height="300" width="300" src="WOKEgif.gif"/>
+ is a static analyzer and symbolic execution engine for Solidity written in Python 🐍
+ 
+  <img height="200" width="200" src="WOKEgif.gif"/>
  
  #
   <p align="center">
@@ -23,9 +25,11 @@
 
 - [📆 Roadmap](#-roadmap)
 
+- [🍼 Getting Help](#-getting-help)
+
 - [🚀 Contribution](#-contribution)
 
-- [🍼 Getting Help](#-getting-help)
+
 
 # 📌 Core Features
 
