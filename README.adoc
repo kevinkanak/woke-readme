@@ -3,12 +3,12 @@
 # WOKE 
 **developed by [Ackee Blockchain](https://ackeeblockchain.com)**
 
- </div>
+</div>
  
-  <p align="center">
+ <p align="center">
 
    <a href="https://discord.gg/eGduTxK2Es">
-  <img src="https://discordapp.com/api/guilds/[867746290678104064]/widget.png?style=banner2" alt="Discord Banner 2">
+    <img src="https://discordapp.com/api/guilds/[867746290678104064]/widget.png?style=banner2" alt="Discord Banner 2">
    </a>
-    </p>
+  </p>
                                                
