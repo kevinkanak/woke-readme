@@ -1,57 +1,14 @@
-# Woke
+<div align="center">
 
-Woke is a static analyzer and symbolic execution engine for Solidity.
+# WOKE 
+**developed by [Ackee Blockchain](https://ackeeblockchain.com)**
 
-## Contributing
+ </div>
+ 
+  <p align="center">
 
-### Creating a virtual environment
-
-We recommend creating a virtual environment inside of the `woke` subdirectory; we have encountered problems when creating it in the root directory.
-
-[source, bash]
-----
-$ cd woke
-----
-
-Using https://virtualenvwrapper.readthedocs.io[virtualenvwrapper]:
-
-[source, bash]
-----
-$ mkvirtualenv woke
-----
-
-Using https://docs.python.org/3/library/venv.html[venv]:
-
-[source, bash]
-----
-$ python3 -m venv env
-$ source env/bin/activate
-----
-
-### Installation
-
-[source, bash]
-----
-$ cd woke
-$ pip install -e ".[tests,dev]"
-----
-
-Pyright, our static type checker, is distributed through npm:
-
-[source, bash]
-----
-$ npm i -g pyright
-----
-
-### Git hooks
-
-For Unix-like platforms, we provide a script that will set-up git hooks.
-
-After cloning, execute.
-
-[source, bash]
-----
-$ chmod +x ./setup-githooks.sh
-$ ./setup-githooks.sh
-----
-
+   <a href="https://discord.gg/eGduTxK2Es">
+  <img src="https://discordapp.com/api/guilds/[867746290678104064]/widget.png?style=banner2" alt="Discord Banner 2">
+   </a>
+    </p>
+                                               
